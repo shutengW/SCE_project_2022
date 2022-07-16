@@ -36,3 +36,7 @@ This folder is created to satisfy the passing requirement of the course "Sustain
 │       └── __init__.cpython-39.pyc
 └── __init__.py
 ```
+
+## Comment on the reproducibility of the results
+Since the datapath is set according to where the data is put and this is different for every one, it might need to be manually adjusted to run the code.
+
