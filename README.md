@@ -38,5 +38,5 @@ This folder is created to satisfy the passing requirement of the course "Sustain
 ```
 
 ## Comment on the reproducibility of the results
-Since the datapath is set according to where the data is put and this is different for every one, it might need to be manually adjusted to run the code.
-
+Since the datapath is set according to where the data is put and this is different for every one, it might need to be manually adjusted to run the code. Click [here](https://gigamove.rwth-aachen.de/en/download/4f94039c1e0896892c073dcd5dc2d9b6) to download the data. If the data is not reachable anymore, please contact the author at:
+shuteng.wang@rwth-aachen.de
