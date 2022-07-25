@@ -43,3 +43,15 @@ In this package, it provides different feature visualization utilities. Spectrog
 ## Comment on the reproducibility of the results
 Since the datapath is set according to where the data is put and this is different for every one, it might need to be manually adjusted to run the code. Click [here](https://gigamove.rwth-aachen.de/en/download/4f94039c1e0896892c073dcd5dc2d9b6) to download the data. If the data is not reachable anymore, please contact the author at:
 shuteng.wang@rwth-aachen.de
+
+## Install
+```
+git clone https://github.com/shutengW/SCE_project_2022.git
+cd SCE_package/CWT_post_processing
+conda env create -f SCE_environment.yml
+```
+
+## Implement
+```
+python3 Network.py
+```
