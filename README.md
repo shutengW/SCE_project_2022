@@ -49,7 +49,7 @@ shuteng.wang@rwth-aachen.de
 git clone https://github.com/shutengW/SCE_project_2022.git
 cd SCE_package/CWT_post_processing
 conda env create -f SCE_environment.yml
-conda activate work_enc
+conda activate work_env
 ```
 
 ## Implement
